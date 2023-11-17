@@ -1,3 +1,9 @@
+.background{
+    width: 100%;
+    background-image: url(img2/pets2.jpg);
+    padding:10% 0 ;
+    background-repeat: no-repeat;
+}
 .card {
     width: 400px;
     border: 2px solid black;
@@ -6,7 +12,7 @@
     margin: 10px;
 }
   
-img {
+.card img {
     width: 100%;
     border-radius: 25px;
   }
